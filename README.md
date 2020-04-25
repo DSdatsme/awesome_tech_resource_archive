@@ -15,5 +15,6 @@ Istio Deep Dive | https://youtu.be/cB611FtjHcQ | Video | Intermediate | Learn in
 Overlay FileSystem | https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/ | Blog | Intermediate | Know how overlay filesystem works inside containers. | Containers, Docker, Linux
 K8s ndot5 problem | https://pracucci.com/kubernetes-dns-resolution-ndots-options-and-why-it-may-affect-application-performances.html | Blog | Intermediate | Understand how FQDN is resolved in K8s and the issues faced. | Containers, Kubernetes
 How Netflix Thinks of DevOps | https://www.youtube.com/watch?v=UTKIT6STSVM | Video | Beginner | Insights of Netflix infrastructure practices | Culture, DevOps
+Rolling Update in K8s | https://youtu.be/MoyixCuN3UQ | Video | Beginner | Learn about rolling strategy in k8s with hands-on demo | Kubernetes
 
 ### Will keep updating this list 
