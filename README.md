@@ -7,7 +7,7 @@ Docker Internals | https://youtu.be/-YnMr1lj4Z8 | Video | Intermediate | Great e
 What are Event Loops | https://youtu.be/8aGhZQkoFbQ | Video | Beginner | Explained and live demonstration of how Event Loops works. | Frontend, JavaScript
 Avoid Race Condition | https://youtu.be/1hScemFvnzw | Video | Intermediate | Amazing video to understand how `proc` works and how to read files in a program. | Linux
 Skip Forward by Netflix | https://www.instagram.com/p/B5ix-fsgjii/?igshid=110txdlo0bxtz | Post | Begineer | A simple thought about skipping 10s of a video. | Design Pattern
-Microservices Design | https://youtu.be/SqcXvc3ZmRU | Video | Begineer | One of the simplest explanation of microservices. | System Design
+Microservices Design | https://youtu.be/SqcXvc3ZmRU | Video | Begineer | One of the simplest explanation of what is microservices. | System Design
 Docker container from scratch | https://youtu.be/8fi7uSYlOdc | Video | Beginner | Program your own Docker container and clear your doubts. | Containers, Linux, Go
 Istio Introduction | https://youtu.be/oZrZlx2fmcM | Video | Beginner, Intermediate | Learn in detail how Istio works | Containers, Kubernetes
 Spinnaker Introduction | https://youtu.be/05EZx3MBHSY | Video | Beginner | Know about capabilities of Spinnaker. | Container, Kubernetes
