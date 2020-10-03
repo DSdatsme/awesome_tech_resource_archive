@@ -19,4 +19,5 @@ Rolling Update in K8s | https://youtu.be/MoyixCuN3UQ | Video | Beginner | Learn 
 Linux System Administrator | http://linux-training.be/ | PDF | Beginner, Intermediate | This website has good pdfs especially Sys Admin, which covers almost everything you need to know about linux commands | Linux
 Docker Tips and Tricks for daily use | https://youtu.be/woBI466WMR8 | Video | Advance | Shares some cool tricks and tips to get most out of Docker.Topics include disk usage, subnet collisions,networking,mage layers, etc. | Containers, Docker
 Some Internal Working of Terminal | https://youtu.be/rrMnmLyYjU8 | Video | Intermediate | In this video he explains beautifully for linux terminal works and how he has added animations to his presentation using it. | Linux, Python
+Understand on how Networking works | https://apenwarr.ca/log/20170810 | Blog | Intermediate | This is a beautiful blog explaining in a good depth how networking works. | Networking
 ### Will keep updating this list 
