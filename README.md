@@ -21,4 +21,6 @@ Docker Tips and Tricks for daily use | https://youtu.be/woBI466WMR8 | Video | Ad
 Some Internal Working of Terminal | https://youtu.be/rrMnmLyYjU8 | Video | Intermediate | In this video he explains beautifully for linux terminal works and how he has added animations to his presentation using it. | Linux, Python
 Understand on how Networking works | https://apenwarr.ca/log/20170810 | Blog | Intermediate | This is a beautiful blog explaining in a good depth how networking works. | Networking
 The Art of coding | https://youtu.be/6avJHaC3C2U | Video | Beginner, Intermediate | This is an amazing session on what programming is with lot of different analogies and some interesting facts and demos. | General
+Light Years Ahead - The 1969 Apollo Guidance Computer | https://youtu.be/B1J2RMorJXM | Video | Beginner, Intermediate | This video gives a dive into the works on AGC and how it was developed during the time with all the technical limitations during that time. Robert also talks about how AGC worked during the moon decent phase and explains more about the error code 1202. | General
+
 ### Will keep updating this list 
